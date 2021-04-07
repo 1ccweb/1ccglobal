@@ -6,7 +6,7 @@ The worlds first decentralized, community support fund
 # Dapp Website
 https://1ccglobal.io
 
-# Huobi Eco Chain (Heco) smart contract address
+# Heco smart contract address
 https://hecoinfo.com/address/0x47f21a0ec081df4c18a244a451b40f4773ed49ca#code
 
 # How it works
