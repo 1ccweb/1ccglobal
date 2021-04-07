@@ -3,7 +3,7 @@
 A financial system built on smart contract technology. Open to all, transparent to all.
 The worlds first decentralized, community support fund
 
-# Dapp Website
+# Dapp Url
 https://1ccglobal.io
 
 # Heco smart contract address
